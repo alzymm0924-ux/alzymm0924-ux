@@ -1,4 +1,4 @@
- src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1> <p align="left"> <a  </p> <br>
+ src="https:" width="30"/> Hey, nice to see you.</h1> <p align="left"> <a  </p> <br>
 Hi, I'm Mohamed Al-Mostafa, a Web Developer 👨🏻‍💻 passionate about creating modern, responsive, and user-friendly websites.
 
 I love turning ideas into clean and functional web experiences, solving problems with code, and continuously learning new technologies to improve my skills.
